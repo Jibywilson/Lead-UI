@@ -16,7 +16,7 @@ import { leads } from "../data/DummyData";
 import "./Dashboard.css";
 
 const stats = [
-  { label: "New", value: "127" },
+  { label: "New", value: "1K" },
   { label: "Contacted", value: "705k" },
   { label: "Qualified", value: "249k" },
   { label: "Working", value: "57k" },
